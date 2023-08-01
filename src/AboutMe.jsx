@@ -51,14 +51,12 @@ const AboutMe = () => {
             <img src={passionPhoto} alt="passion" width={125} height={125} />
           </div>
           <div className="text">
-            <div className="title">Passion</div>
+            <div className="title">Preference</div>
             <div className="description">
               Throughout my journey, I've had the privilege to explore a diverse
               array of powerful tools such as Tableau, IBM Cognos, Power BI, and
               SAS. Among them, Power BI is my favorite for its intuitive
-              interface and dynamic visualization capabilities. It empowers me
-              to transform raw data into compelling stories that drive informed
-              decision-making.
+              interface and dynamic visualization capabilities.
             </div>
           </div>
         </div>
@@ -75,9 +73,10 @@ const AboutMe = () => {
               I am Hong, a passionate business data analyst with expertise in
               the entire data lifecycle. From data capture, data preparation,
               data analysis, and management to impactful presentations, I can
-              support each step of the process to enable organizations in making
-              evidence-driven decisions and sharing insights effectively.
-              <p>Let's unlock the full potential of your data together.</p>
+              support evidence-driven decisions and deliver insights
+              effectively. My can-do attitude and continuous learning mindset
+              drive me to excel in new challenges.
+              <p>Let's unlock the full potential of data together.</p>
             </div>
           </div>
         </div>

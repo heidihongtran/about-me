@@ -1,4 +1,3 @@
-import sportAnalytic from "./images/sportsanalytics1.jpg";
 import flightPhoto from "./images/flight.jpg";
 import excelPhoto from "./images/excel.png";
 import salesPhoto from "./images/sales.png";

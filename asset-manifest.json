@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.10830073.css",
-    "main.js": "/my-portfolio/static/js/main.8a61465c.js",
-    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
-    "static/media/flight.jpg": "/my-portfolio/static/media/flight.526177527f3b09f4b1cf.jpg",
-    "static/media/hong_profile.jpg": "/my-portfolio/static/media/hong_profile.1ab0cd111097b7fa4f04.jpg",
-    "static/media/sportsanalytics1.jpg": "/my-portfolio/static/media/sportsanalytics1.beabbaa19ae06d212f95.jpg",
-    "static/media/skill.png": "/my-portfolio/static/media/skill.29688db226b509fc48f5.png",
-    "static/media/excel.png": "/my-portfolio/static/media/excel.438f2815afea1a5a6929.png",
-    "static/media/experience.png": "/my-portfolio/static/media/experience.65ad2b583df5fd3993e2.png",
-    "static/media/pass.webp": "/my-portfolio/static/media/pass.7a53d895bea4a8fcd33a.webp",
-    "index.html": "/my-portfolio/index.html",
-    "main.10830073.css.map": "/my-portfolio/static/css/main.10830073.css.map",
-    "main.8a61465c.js.map": "/my-portfolio/static/js/main.8a61465c.js.map",
-    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/about-me/static/css/main.10830073.css",
+    "main.js": "/about-me/static/js/main.14b5e4c7.js",
+    "static/js/787.bf6be429.chunk.js": "/about-me/static/js/787.bf6be429.chunk.js",
+    "static/media/flight.jpg": "/about-me/static/media/flight.526177527f3b09f4b1cf.jpg",
+    "static/media/hong_profile.jpg": "/about-me/static/media/hong_profile.1ab0cd111097b7fa4f04.jpg",
+    "static/media/sportsanalytics1.jpg": "/about-me/static/media/sportsanalytics1.beabbaa19ae06d212f95.jpg",
+    "static/media/skill.png": "/about-me/static/media/skill.29688db226b509fc48f5.png",
+    "static/media/excel.png": "/about-me/static/media/excel.438f2815afea1a5a6929.png",
+    "static/media/experience.png": "/about-me/static/media/experience.65ad2b583df5fd3993e2.png",
+    "static/media/pass.webp": "/about-me/static/media/pass.7a53d895bea4a8fcd33a.webp",
+    "index.html": "/about-me/index.html",
+    "main.10830073.css.map": "/about-me/static/css/main.10830073.css.map",
+    "main.14b5e4c7.js.map": "/about-me/static/js/main.14b5e4c7.js.map",
+    "787.bf6be429.chunk.js.map": "/about-me/static/js/787.bf6be429.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10830073.css",
-    "static/js/main.8a61465c.js"
+    "static/js/main.14b5e4c7.js"
   ]
 }

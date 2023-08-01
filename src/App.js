@@ -9,7 +9,7 @@ function App() {
         <AboutMe />
         <Portfolio />
         <footer>
-          <a href="https://github.com">Github</a>{" "}
+          <a href="https://github.com/heidihongtran/">Github</a>{" "}
           <a href="https://www.linkedin.com/in/hong-heidi-tran/">LinkedIn</a>
         </footer>
       </div>

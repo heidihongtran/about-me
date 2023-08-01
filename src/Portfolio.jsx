@@ -1,6 +1,10 @@
 import sportAnalytic from "./images/sportsanalytics1.jpg";
 import flightPhoto from "./images/flight.jpg";
 import excelPhoto from "./images/excel.png";
+import salesPhoto from "./images/sales.png";
+import logicticPhoto from "./images/logistic.png";
+import adidasPhoto from "./images/adidas.png";
+import amtrakPhoto from "./images/amtrak.png";
 import "./Portfolio.scss";
 import Tile from "./Tile";
 
@@ -25,34 +29,30 @@ const Portfolio = () => {
         />
         <Tile
           data={{
-            image: sportAnalytic,
-            title: "Project title",
-            description:
-              "Mobile-optimised Tableau visualisation exploring malaria trends in Africa. Awarded “Viz of the Day” and has over 80,000 views to date.",
+            image: salesPhoto,
+            title: "Walmart sales - Time series analysis",
+            url: "https://github.com/heidihongtran/WalmartSales_TimeSeriesAnalysis",
           }}
         />
         <Tile
           data={{
-            image: sportAnalytic,
-            title: "Project title",
-            description:
-              "Mobile-optimised Tableau visualisation exploring malaria trends in Africa. Awarded “Viz of the Day” and has over 80,000 views to date.",
+            image: logicticPhoto,
+            title: "Optimizing e-commerce logistics",
+            url: "https://github.com/heidihongtran/OptimizingE-commerceLogistics",
           }}
         />
         <Tile
           data={{
-            image: sportAnalytic,
-            title: "Project title",
-            description:
-              "Mobile-optimised Tableau visualisation exploring malaria trends in Africa. Awarded “Viz of the Day” and has over 80,000 views to date.",
+            image: adidasPhoto,
+            title: "Adidas - Statistical Analysis and Visualization",
+            url: "https://github.com/heidihongtran/AdidasFashionRetailProducts",
           }}
         />
         <Tile
           data={{
-            image: sportAnalytic,
-            title: "Project title",
-            description:
-              "Mobile-optimised Tableau visualisation exploring malaria trends in Africa. Awarded “Viz of the Day” and has over 80,000 views to date.",
+            image: amtrakPhoto,
+            title: "Amtrak Train Ridership Forecast",
+            url: "https://github.com/heidihongtran/Ridership_Amtrak-Trains",
           }}
         />
       </div>

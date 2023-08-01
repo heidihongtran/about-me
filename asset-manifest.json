@@ -1,13 +1,12 @@
 {
   "files": {
     "main.css": "/about-me/static/css/main.10830073.css",
-    "main.js": "/about-me/static/js/main.210a8444.js",
+    "main.js": "/about-me/static/js/main.09e4cd5c.js",
     "static/js/787.bf6be429.chunk.js": "/about-me/static/js/787.bf6be429.chunk.js",
     "static/media/adidas.png": "/about-me/static/media/adidas.5cbb35c77c6f2072f7c3.png",
     "static/media/flight.jpg": "/about-me/static/media/flight.526177527f3b09f4b1cf.jpg",
     "static/media/hong_profile.jpg": "/about-me/static/media/hong_profile.1ab0cd111097b7fa4f04.jpg",
     "static/media/amtrak.png": "/about-me/static/media/amtrak.1b15ac5e147e921a49f1.png",
-    "static/media/sportsanalytics1.jpg": "/about-me/static/media/sportsanalytics1.beabbaa19ae06d212f95.jpg",
     "static/media/skill.png": "/about-me/static/media/skill.29688db226b509fc48f5.png",
     "static/media/sales.png": "/about-me/static/media/sales.0dbfb01b325280929f43.png",
     "static/media/logistic.png": "/about-me/static/media/logistic.b9655f0a207bc20bce67.png",
@@ -16,11 +15,11 @@
     "static/media/pass.webp": "/about-me/static/media/pass.7a53d895bea4a8fcd33a.webp",
     "index.html": "/about-me/index.html",
     "main.10830073.css.map": "/about-me/static/css/main.10830073.css.map",
-    "main.210a8444.js.map": "/about-me/static/js/main.210a8444.js.map",
+    "main.09e4cd5c.js.map": "/about-me/static/js/main.09e4cd5c.js.map",
     "787.bf6be429.chunk.js.map": "/about-me/static/js/787.bf6be429.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10830073.css",
-    "static/js/main.210a8444.js"
+    "static/js/main.09e4cd5c.js"
   ]
 }

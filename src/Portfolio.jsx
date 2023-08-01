@@ -1,26 +1,27 @@
 import sportAnalytic from "./images/sportsanalytics1.jpg";
+import flightPhoto from "./images/flight.jpg";
+import excelPhoto from "./images/excel.png";
 import "./Portfolio.scss";
 import Tile from "./Tile";
 
 const Portfolio = () => {
-  const openInNewTab = (url) => {
-    window.open(url, "_blank", "noreferrer");
-  };
-  const onTileClick = () => {
-    openInNewTab("https://plainenglish.io/blog/react-open-link-in-new-tab");
-  };
   return (
     <div className="my-portfolio">
       <h1 className="title">Portfolio</h1>
       <div className="my-portfolio-container">
         <Tile
           data={{
-            image: sportAnalytic,
-            title: "Project title",
-            description:
-              "Mobile-optimised Tableau visualisation exploring malaria trends in Africa. Awarded “Viz of the Day” and has over 80,000 views to date.",
+            image: flightPhoto,
+            title: "Flight Delay Prediction",
+            url: "https://github.com/heidihongtran/FlightDelayPrediction",
           }}
-          onClick={onTileClick}
+        />
+        <Tile
+          data={{
+            image: excelPhoto,
+            title: "Highlighting with VBA",
+            url: "https://medium.com/@thuhong126/having-heard-about-vbas-efficiency-in-automating-tasks-for-a-while-i-decided-to-explore-its-c0c6a6332163",
+          }}
         />
         <Tile
           data={{
@@ -29,7 +30,6 @@ const Portfolio = () => {
             description:
               "Mobile-optimised Tableau visualisation exploring malaria trends in Africa. Awarded “Viz of the Day” and has over 80,000 views to date.",
           }}
-          onClick={onTileClick}
         />
         <Tile
           data={{
@@ -38,7 +38,6 @@ const Portfolio = () => {
             description:
               "Mobile-optimised Tableau visualisation exploring malaria trends in Africa. Awarded “Viz of the Day” and has over 80,000 views to date.",
           }}
-          onClick={onTileClick}
         />
         <Tile
           data={{
@@ -47,7 +46,6 @@ const Portfolio = () => {
             description:
               "Mobile-optimised Tableau visualisation exploring malaria trends in Africa. Awarded “Viz of the Day” and has over 80,000 views to date.",
           }}
-          onClick={onTileClick}
         />
         <Tile
           data={{
@@ -56,16 +54,6 @@ const Portfolio = () => {
             description:
               "Mobile-optimised Tableau visualisation exploring malaria trends in Africa. Awarded “Viz of the Day” and has over 80,000 views to date.",
           }}
-          onClick={onTileClick}
-        />
-        <Tile
-          data={{
-            image: sportAnalytic,
-            title: "Project title",
-            description:
-              "Mobile-optimised Tableau visualisation exploring malaria trends in Africa. Awarded “Viz of the Day” and has over 80,000 views to date.",
-          }}
-          onClick={onTileClick}
         />
       </div>
     </div>

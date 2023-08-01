@@ -1,13 +1,14 @@
 .my-portfolio {
   .title {
     color: #f79489;
+    text-align: center;
   }
   .my-portfolio-container {
     justify-content: center;
     display: flex;
     flex-wrap: wrap;
     .tile {
-      width: 550px;
+      width: 576px;
       height: 300px;
       .container {
         position: relative;

@@ -1,6 +1,6 @@
 import AboutMe from "./AboutMe";
 import Portfolio from "./Portfolio";
-import "./App.css";
+import "./App.scss";
 
 function App() {
   return (
@@ -9,8 +9,8 @@ function App() {
         <AboutMe />
         <Portfolio />
         <footer>
-          <a href="https://facebook.com">Facebook</a> |{" "}
-          <a href="https://linkedin.com">LinkedIn</a>
+          <a href="https://github.com">Github</a>{" "}
+          <a href="https://www.linkedin.com/in/hong-heidi-tran/">LinkedIn</a>
         </footer>
       </div>
     </div>

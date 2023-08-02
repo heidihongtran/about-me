@@ -54,7 +54,7 @@ const AboutMe = () => {
             <div className="title">Preference</div>
             <div className="description">
               Throughout my journey, I've had the privilege to explore a diverse
-              array of powerful tools such as Tableau, IBM Cognos, Power BI, and
+              array of powerful BI tools such as Tableau, IBM Cognos, Power BI, and
               SAS. Among them, Power BI is my favorite for its intuitive
               interface and dynamic visualization capabilities.
             </div>

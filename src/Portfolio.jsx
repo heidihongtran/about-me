@@ -4,6 +4,7 @@ import salesPhoto from "./images/sales.png";
 import logicticPhoto from "./images/logistic.png";
 import adidasPhoto from "./images/adidas.png";
 import amtrakPhoto from "./images/amtrak.png";
+import vba2Photo from "./images/vba2.png";
 import "./Portfolio.scss";
 import Tile from "./Tile";
 
@@ -54,6 +55,13 @@ const Portfolio = () => {
             url: "https://github.com/heidihongtran/Ridership_Amtrak-Trains",
           }}
         />
+        <Tile
+          data={{
+            image: vba2Photo,
+            title: "Excel Data Cleaning and Analysis Automation",
+            url: "https://medium.com/@thuhong126/excel-data-cleaning-and-analysis-automation-for-publishing-orders-594a519b1f03",
+          }}
+        />        
       </div>
     </div>
   );

@@ -1,9 +1,9 @@
 import flightPhoto from "./images/flight.jpg";
 import excelPhoto from "./images/excel.png";
-import salesPhoto from "./images/sales.png";
-import logicticPhoto from "./images/logistic.png";
+import salesPhoto from "./images/sales.jpg";
+import logicticPhoto from "./images/logistic.jpg";
 import adidasPhoto from "./images/adidas.png";
-import amtrakPhoto from "./images/amtrak.png";
+import amtrakPhoto from "./images/amtrak.jpeg";
 import vba2Photo from "./images/vba2.png";
 import "./Portfolio.scss";
 import Tile from "./Tile";
@@ -58,7 +58,7 @@ const Portfolio = () => {
         <Tile
           data={{
             image: vba2Photo,
-            title: "Excel Data Cleaning and Analysis Automation",
+            title: "Excel Data Cleaning and Reporting Automation",
             url: "https://medium.com/@thuhong126/excel-data-cleaning-and-analysis-automation-for-publishing-orders-594a519b1f03",
           }}
         />        

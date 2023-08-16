@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/about-me/static/css/main.37932805.css",
-    "main.js": "/about-me/static/js/main.b32ea638.js",
+    "main.js": "/about-me/static/js/main.3c44af83.js",
     "static/js/787.bf6be429.chunk.js": "/about-me/static/js/787.bf6be429.chunk.js",
     "static/media/hong_profile.jpg": "/about-me/static/media/hong_profile.2bd9d6d4fbf74c4eef06.jpg",
     "static/media/adidas.png": "/about-me/static/media/adidas.5cbb35c77c6f2072f7c3.png",
@@ -10,17 +10,18 @@
     "static/media/sales.jpg": "/about-me/static/media/sales.2c1f7c9d79e81eeb9acd.jpg",
     "static/media/excel.png": "/about-me/static/media/excel.dc06368fb049afc76b8d.png",
     "static/media/amtrak.jpeg": "/about-me/static/media/amtrak.598626dd4cdc8b003dce.jpeg",
+    "static/media/violin.png": "/about-me/static/media/violin.b7954a58be568a5fe875.png",
     "static/media/skill.png": "/about-me/static/media/skill.29688db226b509fc48f5.png",
     "static/media/experience.png": "/about-me/static/media/experience.65ad2b583df5fd3993e2.png",
     "static/media/logistic.jpg": "/about-me/static/media/logistic.08ca6d92c32d708b72aa.jpg",
     "static/media/pass.webp": "/about-me/static/media/pass.7a53d895bea4a8fcd33a.webp",
     "index.html": "/about-me/index.html",
     "main.37932805.css.map": "/about-me/static/css/main.37932805.css.map",
-    "main.b32ea638.js.map": "/about-me/static/js/main.b32ea638.js.map",
+    "main.3c44af83.js.map": "/about-me/static/js/main.3c44af83.js.map",
     "787.bf6be429.chunk.js.map": "/about-me/static/js/787.bf6be429.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37932805.css",
-    "static/js/main.b32ea638.js"
+    "static/js/main.3c44af83.js"
   ]
 }
